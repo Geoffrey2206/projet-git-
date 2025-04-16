@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ligne B
+=======
+ligne C
+>>>>>>> master
